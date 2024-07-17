@@ -1,0 +1,14 @@
+FileHiderProject/
+├── src/
+│   ├── com/
+│   │   ├── filehider/
+│   │   │   ├── Main.java
+│   │   │   ├── AuthenticationService.java
+│   │   │   ├── EmailService.java
+│   │   │   ├── EncryptionService.java
+│   │   │   ├── OTPService.java
+├── lib/
+│   ├── mail.jar (JavaMail API)
+├── db/
+│   ├── schema.sql
+
